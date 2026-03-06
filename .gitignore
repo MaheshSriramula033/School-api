@@ -16,3 +16,5 @@ Thumbs.db
 # Optional: build directories
 /dist
 /build
+
+ca.pem
